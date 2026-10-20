@@ -22,9 +22,9 @@
 
 **Expected result:** The image is opened, available properties are printed, and a thumbnail is saved.
 
-**Actual result:** Fill in after running the test.
+**Actual result:** All steps are followed.
 
-**Status:** Pending documentation.
+**Status:** DONE
 
 ### Test 2: Missing file
 
@@ -38,9 +38,9 @@ python explore_slide.py missing-slide.svs
 
 **Expected result:** The script displays an error message instead of terminating with an unhandled exception.
 
-**Actual result:** Fill in after running the test.
+**Actual result:** Error opening slide: Unsupported or missing image file
 
-**Status:** Not yet verified.
+**Status:** DONE
 
 ### Test 3: Unsupported file
 
@@ -50,9 +50,9 @@ python explore_slide.py missing-slide.svs
 
 **Expected result:** The script displays an error message for the unsupported input.
 
-**Actual result:** Fill in after running the test.
+**Actual result:** Error opening slide: Unsupported or missing image file.
 
-**Status:** Not yet verified.
+**Status:** DONE
 
 ## Observations
 
