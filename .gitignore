@@ -1,0 +1,9 @@
+wsi-env/
+__pycache__/
+*.svs
+*.ndpi
+*.mrxs
+*.tiff
+*.tif
+*.png
+*Zone.Identifier
