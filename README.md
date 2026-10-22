@@ -7,6 +7,7 @@ A beginner-friendly project exploring Whole Slide Imaging (WSI) and digital path
 * **Environment Configuration:** Setting up a Python virtual environment (`venv`) alongside system/binary dependencies (`openslide-bin`) in WSL.
 * **Metadata Extraction:** Programmatically reading dimensions, resolution levels, vendor info, and micrometers-per-pixel (MPP) metadata.
 * **Thumbnail Generation:** Extracting and saving downsampled overviews of massive slides.
+* **Privacy Check:** Listing every metadata field, saving the label and macro images, and flagging data that could identify a patient or case.
 * **Robust Error Handling:** Handling valid files, missing files, and unsupported file types gracefully.
 
 ---
