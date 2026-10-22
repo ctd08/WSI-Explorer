@@ -7,3 +7,4 @@ __pycache__/
 *.tif
 *.png
 *Zone.Identifier
+openslide-python/
